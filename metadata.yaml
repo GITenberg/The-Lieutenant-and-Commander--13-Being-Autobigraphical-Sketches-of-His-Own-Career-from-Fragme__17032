@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7097
     wikipedia: http://en.wikipedia.org/wiki/Basil_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17032#The-Lieutenant-and-Commander--13-Being-Autobigraphical-Sketches-of-His-Own-Career-from-Fragme_
 gutenberg_issued: '2005-11-08'
 gutenberg_type: Text
 identifiers:
