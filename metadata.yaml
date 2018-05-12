@@ -1,0 +1,32 @@
+_repo: The-Lieutenant-and-Commander--13-Being-Autobigraphical-Sketches-of-His-Own-Career-from-Fragme__17032
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Basil
+    birthdate: 1788
+    deathdate: 1844
+    gutenberg_agent_id: '7097'
+    url: http://www.gutenberg.org/2009/agents/7097
+    wikipedia: http://en.wikipedia.org/wiki/Basil_Hall
+description: ''
+gutenberg_issued: '2005-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Royal Navy -- Biography'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Seafaring life -- Biography'
+- !lcsh 'Sailors -- Great Britain -- Biography'
+- !lcsh 'Hall, Basil, 1788-1844'
+- !lcc 'G'
+title: "The Lieutenant and Commander\r\nBeing Autobigraphical Sketches of His Own\
+  \ Career, from Fragments of Voyages and Travels"
+url: http://www.gutenberg.org/ebooks/17032
